@@ -5,7 +5,7 @@ Written in C# using .NET 6.0.
 
 Difference Engine team:
 
-* Augustina Aboy
+* Agustina Aboy
 * Ben Ferrer
 * Christopher Diggins
 * Matt Shelp
